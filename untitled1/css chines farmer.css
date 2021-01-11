@@ -1,0 +1,30 @@
+.paragraph {
+  front-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing:
+
+
+}
+
+a{
+  color: Red;
+}
+a:visited {
+  color:Green;
+
+}
+
+a:hover:{
+  color: hotpink;
+}
+p{
+  width: 90%;
+  margin: 20px 20px 30px 40px;
+
+
+
+}
+
+
+
+
